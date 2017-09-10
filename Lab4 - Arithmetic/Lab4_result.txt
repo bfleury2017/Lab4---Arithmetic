@@ -1,0 +1,17 @@
+Enter first integer: 45
+Enter second integer: 5
+sum is: 50
+product is: 225
+difference is: 40
+quotient is: 9
+remainder is: 0
+Press any key to continue . . .
+
+Enter first integer: 91
+Enter second integer: 3
+sum is: 94
+product is: 273
+difference is: 88
+quotient is: 30
+remainder is: 1
+Press any key to continue . . .
